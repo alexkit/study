@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: groovy
+buildTool: maven
+features: [annotation-api, app-name, groovy, groovy-application, h2, http-client, junit, logback, maven, netty-server, properties, readme, shade]
